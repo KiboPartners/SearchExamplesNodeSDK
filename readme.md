@@ -1,5 +1,7 @@
 ## Using the mozu-node-sdk for search
 
+#### Examples  
+Code examples in ```search.js```
 #### Installation
 Mozu-node-sdk [download and documentation](https://www.npmjs.com/package/mozu-node-sdk)
 
@@ -8,7 +10,6 @@ Mozu-node-sdk [download and documentation](https://www.npmjs.com/package/mozu-no
 - Site search [API docs](https://apidocs.kibocommerce.com/?spec=catalog_storefront#get-/commerce/catalog/storefront/productsearch/siteSearch)
 - Suggest2 - [API docs](https://apidocs.kibocommerce.com/?spec=catalog_storefront#get-/commerce/catalog/storefront/productsearch/suggest2)
 
-Examples  in ```search.js```
 
 #### Creating API Context
 Use env variables to pass along your credentials
